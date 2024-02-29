@@ -1,2 +1,2 @@
-# whether-finder-using-python
+# weather-finder-using-python
 This is my creation.
